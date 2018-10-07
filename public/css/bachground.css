@@ -1,0 +1,7 @@
+.p{
+    background-image: url("../ttt.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid powderblue;
+    padding: 30px;
+}
